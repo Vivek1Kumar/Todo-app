@@ -4,7 +4,7 @@
   "description": "todo app using mean stack",
   "main": "main.js",
   "scripts": {
-    "test": "cat test.sh | sh"
+    "test": "npm start"
   },
   "author": "",
   "license": "ISC",
