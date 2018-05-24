@@ -1,0 +1,10 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "env.js",
+    "server.js"
+  ],
+  "helpers": [],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
